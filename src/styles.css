@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: rosybrown;
+  padding: 1.5rem;
+  margin-bottom: 6rem;
+}
+
+.mainHeading {
+  padding: 1rem;
+  font-weight: bolder;
+  color: black;
+}
+
+input {
+  padding: 0.5rem;
+  width: 80%;
+  border-radius: 0.4rem;
+}
+
+.result {
+  margin-bottom: 12rem;
+  padding: 2rem 0 2rem 0;
+  font-size: 2rem;
+  color: rgb(60, 134, 89);
+}
+
+footer {
+  background-color: rosybrown;
+}
+
+.flagContainer {
+  padding: 0rem;
+  font-size: 1rem;
+}
+
+.flag {
+  display: inline-flex;
+  padding: 0.3rem;
+  font-size: 3rem;
+}
